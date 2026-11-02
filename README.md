@@ -6,7 +6,7 @@
 
 🏫 I graduated from **Presidential Physics and Mathematics Lyceum No. 239** and studied at its Mathematics Center.
 
-🏅 Mathematics olympiad winner and prize-winner — [**five diplomas**](https://github.com/d-pashkov/achievements/tree/main/diplomas).
+🏅 Mathematics olympiad winner and prize-winner – [**five diplomas**](https://github.com/d-pashkov/achievements/tree/main/diplomas).
 
 👀 I'm interested in **machine learning**, mathematical optimization and algorithms, and I'm looking for an **ML internship**.
 
