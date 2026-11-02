@@ -1,6 +1,6 @@
 ## 👨‍💻 About me
 
-👋 Hi, I'm **Dmitriy Pashkov**!
+👋 Hi, I'm **Dima**!
 
 🎓 I'm a third-year **Computer Technologies** student at **ITMO University**, Faculty of Information Technologies and Programming.
 
